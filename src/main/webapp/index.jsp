@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome DevOps</title>
+    <title>Welcome My DevOps World</title>
     <style>
         body {
             background: linear-gradient(to right, #ff8a00, #da1b60);
@@ -17,6 +17,6 @@
     </style>
 </head>
 <body>
-    <h1> DevSecOps-Easy welcomes you</h1>
+    <h1>Nature is Good</h1>
 </body>
 </html>
