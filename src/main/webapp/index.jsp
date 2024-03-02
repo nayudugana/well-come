@@ -17,6 +17,6 @@
     </style>
 </head>
 <body>
-    <h1>Nature is Good</h1>
+    <h1>Nature is Good Now</h1>
 </body>
 </html>
